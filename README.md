@@ -22,4 +22,4 @@ add other feautures to  it.
 Would love to see any innovative ideas coming aroung !!!
 ### ```Don't forget to Star the repo.```
 ### It would be nice if you contribute to it by adding some changes.
-    Make sure you star the repo and enjoy it
+    Make sure you star the repo and enjoy it.
