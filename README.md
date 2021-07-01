@@ -23,5 +23,4 @@ Would love to see any innovative ideas coming aroung !!!
 ### ```Don't forget to Star the repo.```
 ### It would be nice if you contribute to it by adding some changes.
     Make sure you star the repo and enjoy it.
-#  Make sure they end on a empty line.
 <div style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/220px-SNice.svg.png" /></div>
