@@ -2,7 +2,7 @@
 ### _Powered_by_Lucifer_Utkarsh_.
 [![N|Solid](https://img.shields.io/badge/Powered%20by-LuciferUtkarsh-green)](https://www.luciferutkarsh.ml/)
 
-##### This is a cool SVG to put up to your website, It is amazing you can have a look on the github-pages.
+#### This is a cool SVG to put up to your website, It is amazing you can have a look on the github-pages.
 - It is a scrollable and would really look cool on websites.
 - Totally customizable.
 - SVG functions smooth and renders fine.
