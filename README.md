@@ -1,5 +1,5 @@
 # Day-Noon-Night-SVG.
-### _Powered_by_Lucifer_Utkarsh_
+### _Powered_by_Lucifer_Utkarsh_.
 [![N|Solid](https://img.shields.io/badge/Powered%20by-LuciferUtkarsh-green)](https://www.luciferutkarsh.ml/)
 
 ##### This is a cool SVG to put up to your website, It is amazing you can have a look on the github-pages.
